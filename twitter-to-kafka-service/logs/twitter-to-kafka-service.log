@@ -1,0 +1,59 @@
+2023-03-19 18:47:29 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 71514 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 18:47:29 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 18:47:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.966 seconds (JVM running for 1.722)
+2023-03-19 18:47:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 18:47:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:08:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 83849 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 19:08:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 19:08:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.952 seconds (JVM running for 1.67)
+2023-03-19 19:08:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 19:08:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:08:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservice!
+2023-03-19 19:13:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 87751 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 19:13:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 19:13:05 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.204 seconds (JVM running for 2.095)
+2023-03-19 19:13:05 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 19:13:05 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:13:05 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservice!
+2023-03-19 19:13:15 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 87898 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 19:13:15 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 19:13:15 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.853 seconds (JVM running for 1.673)
+2023-03-19 19:13:15 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 19:13:15 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:13:15 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservice!
+2023-03-19 19:18:17 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 93223 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 19:18:17 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 19:18:17 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.884 seconds (JVM running for 1.643)
+2023-03-19 19:18:17 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 19:18:17 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:18:17 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservice!
+2023-03-19 19:18:17 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff took input - {}
+2023-03-19 19:18:17 [main] WARN  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff needed to warn - {}
+2023-03-19 19:18:17 [main] ERROR c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff encountered an error with value - {}
+2023-03-19 19:18:36 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 93487 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 19:18:36 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 19:18:36 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.827 seconds (JVM running for 1.602)
+2023-03-19 19:18:36 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 19:18:36 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:18:36 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservice!
+2023-03-19 19:18:36 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff took input - {}
+2023-03-19 19:18:36 [main] WARN  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff needed to warn - {}
+2023-03-19 19:18:36 [main] ERROR c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff encountered an error with value - {}
+2023-03-19 19:19:08 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 93908 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 19:19:08 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 19:19:09 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.823 seconds (JVM running for 1.565)
+2023-03-19 19:19:09 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 19:19:09 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:19:09 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservice!
+2023-03-19 19:19:09 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff took input - {}
+2023-03-19 19:19:09 [main] WARN  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff needed to warn - {}
+2023-03-19 19:19:09 [main] ERROR c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff encountered an error with value - {}
+2023-03-19 19:19:53 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.18 on rksingh-LTM with PID 94504 (/Users/rksingh/Downloads/Learning-Personal/microservice/twitter-to-kafka-service/target/classes started by rksingh in /Users/rksingh/Downloads/Learning-Personal/microservice)
+2023-03-19 19:19:53 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 19:19:54 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.895 seconds (JVM running for 1.771)
+2023-03-19 19:19:54 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2023-03-19 19:19:54 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservice, Spring, Kafka, ElasticSearch]
+2023-03-19 19:19:54 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservice!
+2023-03-19 19:19:54 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff took input - {}
+2023-03-19 19:19:54 [main] WARN  c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff needed to warn - {}
+2023-03-19 19:19:54 [main] ERROR c.m.t.t.k.s.TwitterToKafkaServiceApplication - doStuff encountered an error with value - {}
