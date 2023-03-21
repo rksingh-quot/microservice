@@ -21,6 +21,7 @@ public class TwitterToKafkaServiceApplication implements CommandLineRunner {
     private final TwitterToKafkaServiceConfig twitterToKafkaServiceConfig;
 
     public TwitterToKafkaServiceApplication(TwitterToKafkaServiceConfig twitterToKafkaServiceConfig) {
+        //this is constructor
         this.twitterToKafkaServiceConfig = twitterToKafkaServiceConfig;
     }
 
